@@ -1,0 +1,1 @@
+export default server = "https://masak-apa-tomorisakura.vercel.app";
